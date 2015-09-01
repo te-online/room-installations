@@ -84,14 +84,100 @@ ROOM DEFINING MATERIALS
 - sound pressure
 
 ## FEELING
-- happy
-- unhappy
-- angry
-- agressive
+- happy / unhappy
+- angry / positive
+- agressive / calm
 - empathic
 - thrilling
 - exciting
 ### language
 - communication/community
 - foreign
-- 
+- including/excluding
+
+
+# VISUAL IMAGE
+
+## HOW TO MAKE IT
+- wall
+- ground
+- ceiling
+- color
+- projections
+- shadow
+- depth (recognition)
+
+## MEASUREMENT
+- color (photo) sensor
+
+## FEELING
+- effect of color and material
+### e.g. red
+- agressive
+- strong
+### stones
+- coldness
+- quality
+- structured surface
+### red carpet
+- something special
+
+
+# SIZE / ARCHITECTURE
+
+## HOW TO MAKE IT
+- composition of the room
+- interior of the room
+
+## MEASUREMENT
+- dimensions (e.g. laser)
+
+## FEELING
+- restricting / opening
+- great / small
+
+
+# LIGHT
+
+## HOW TO MAKE IT
+- light bulb / light tubes
+- daylight
+- LED
+- laser
+- sun
+- candles
+- fire
+
+## MEASUREMENT
+- photosensor (luminance / color)
+
+## FEELING
+
+### warm light
+- security
+- feeling good
+
+### cold light
+- lonely
+- left behind
+
+
+# WATER (WETNESS)
+
+## HOW TO MAKE IT
+- water dust
+- water
+- drops of water (sprinkler)
+
+## MEASUREMENT
+- wetness sensor
+
+## FEELING
+
+### warm water (drops or dust)
+- a pleasant feeling
+- tropical feeling
+
+### cold water (more than drops)
+- depressing
+- no good feeling

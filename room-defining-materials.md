@@ -12,12 +12,14 @@ ROOM DEFINING MATERIALS
 - wind speed and direction meter
 
 ## FEELING
+
 ### light wind
 - freedom
 - natural
 - nature
 - sensuosness
 - quietness
+
 ### strong wind
 - cold
 - danger
@@ -112,13 +114,16 @@ ROOM DEFINING MATERIALS
 
 ## FEELING
 - effect of color and material
+
 ### e.g. red
 - agressive
 - strong
+
 ### stones
 - coldness
 - quality
 - structured surface
+
 ### red carpet
 - something special
 
